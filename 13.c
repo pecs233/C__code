@@ -18,4 +18,3 @@ int main()
 	My_strcat(arr, "World");
 	printf("%s", arr);
 	return 0;
-}
