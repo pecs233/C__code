@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
-Ð¡Á·Ï° 
+//Ð¡Á·Ï° 
 
 //void maxmin(int* p)
 //{
